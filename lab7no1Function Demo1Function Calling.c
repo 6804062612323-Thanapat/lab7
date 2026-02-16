@@ -3,7 +3,7 @@
 double functionM(void);
 int functionN(int n, double x);
 double functionO(double, int, double, int);
-    double functionP(int a, int n, int b, int c);
+double functionP(int a, int n, int b, int c);
 
 int main(void) {
   	int a, b, c, d, e;
@@ -25,3 +25,4 @@ j)  functionP(functionN(a, a), s, t, t+r); ถูกต้อง พาราม
 k)  v = functionP(functionN(a, a), s, t, t+r); ถูกต้อง
 
 */
+
